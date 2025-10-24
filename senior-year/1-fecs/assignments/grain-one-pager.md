@@ -35,11 +35,11 @@ Wheat kernels are fed into a milling machine, separating the bran, endosperm, an
 
 ### Growth
 
-
+Oats grow best in relatively cold environments. Like other grasses, it grows in damp soil.
 
 ### Process
 
-
+The outer hulls are aspirated and separated from the inner groats through an air tube. It is then kilned to remove enzymes and moisture. Finally, they are cut and turned into oat products.
 
 ### Products/Recipes
 
