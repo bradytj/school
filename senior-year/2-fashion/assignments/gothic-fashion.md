@@ -11,3 +11,7 @@ The assignment should include pictures of the fashion during the civilization or
 ## Info
 
 Gothic fashion was a marginally dark or monochrome style of clothing that often utilized floral patterns.
+
+### Types of fashion
+
+Males dressing during the gothic era typically wore <!-- TBC -->
