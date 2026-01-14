@@ -3,3 +3,4 @@
 2. The President has to be at least \_\_\_\_\_ years of age.
    - 35
 4. The \_\_\_\_\_ amendment limited the President to two terms.
+6. Explain executive priviledge.
