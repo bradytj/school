@@ -1,6 +1,16 @@
 1. In Article II of the Constitution, the executive powers of the President are
    described as \_\_\_\_\_.
+   - _???_
 2. The President has to be at least \_\_\_\_\_ years of age.
    - 35
+3. _???_
 4. The \_\_\_\_\_ amendment limited the President to two terms.
+   - _???_
+5. _???_
 6. Explain executive priviledge.
+   - _???_
+7. What are the four options for the president when a bill reaches his desk?'
+   - _???_
+   - _???_
+   - Veto
+   - Pocket veto
