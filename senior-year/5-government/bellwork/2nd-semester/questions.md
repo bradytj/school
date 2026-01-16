@@ -14,3 +14,5 @@
    - _???_
    - Veto
    - Pocket veto
+8. What is the difference between a treaty and an executive agreement?
+   - Executive agreements have an expiration date
