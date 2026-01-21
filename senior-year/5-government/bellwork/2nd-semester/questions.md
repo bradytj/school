@@ -16,3 +16,4 @@
    - Pocket veto
 8. What is the difference between a treaty and an executive agreement?
    - Executive agreements have an expiration date
+9. The constitution of the United States gives \_\_\_\_\_ power to declare war.
