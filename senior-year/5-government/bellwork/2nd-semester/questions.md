@@ -18,3 +18,5 @@
    - Executive agreements have an expiration date
 9. The constitution of the United States gives \_\_\_\_\_ power to declare war.
 10. How is a vacancy for the office of Vice President filled?
+11. Who was the President of the United States during the Cuban Missile Crisis?
+   - John F. Kennedy
