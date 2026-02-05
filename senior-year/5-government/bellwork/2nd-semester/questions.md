@@ -26,3 +26,8 @@
 12. What do you think would have been the best course of action for the U.S. during
     the Cuban Missile Crisis?
     - _???_
+13. How did the U.S. prove to the world that the Societs had offensives weapons in Cuba?
+    - The U.S. used satellite pictures
+14. What are the two types of jurisdiction that apply to the Supreme Court?
+    - Original jurisdiction
+    - Appellate jurisdiction
