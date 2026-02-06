@@ -31,3 +31,5 @@
 14. What are the two types of jurisdiction that apply to the Supreme Court?
     - Original jurisdiction
     - Appellate jurisdiction
+15. What is the meaning of the word jurisdiction?
+    - Jurisdiction is what determines what court has the authority in a case.
