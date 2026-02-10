@@ -35,3 +35,5 @@
     - Jurisdiction is what determines what court has the authority in a case.
 16. The \_\_\_\_\_ is the highest court in the United States.
     - `???`
+17. The facilitator of the Supreme Court is the \_\_\_\_\_.
+    - `???`
