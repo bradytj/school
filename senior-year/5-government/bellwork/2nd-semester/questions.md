@@ -39,3 +39,5 @@
     - Chief Justice
 18. The workhouse of the federal Court System are the \_\_\_\_\_ Courts.
     - District
+19. Describe the process of selecting a federal judge
+    - `???`
