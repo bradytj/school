@@ -42,4 +42,5 @@
 19. Describe the process of selecting a federal judge
     - `???`
 20. How do Civil Rights and Civil Liberties differ?
-    - `???`
+    - Civil Rights are laws passed by the Government to protect you
+    - Civil Liberties are laws passed to protect you from the Government
