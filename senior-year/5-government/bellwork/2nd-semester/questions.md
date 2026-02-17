@@ -41,3 +41,5 @@
     - District
 19. Describe the process of selecting a federal judge
     - `???`
+20. How do Civil Rights and Civil Liberties differ?
+    - `???`
