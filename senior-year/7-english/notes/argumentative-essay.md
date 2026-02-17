@@ -31,3 +31,22 @@ Thesis: Community service should be required for graduation. Helping communities
     - Topic
     - Topic
   - Conclusion
+
+## Conclusion
+
+2nd to last paragraph:
+
+  * Counterclaim
+    - Transition word/phrase that shows contrast
+  * Explanation of that side
+    - Fairly discuss the other side
+  * Rebuttal
+    - Explain why that (the counterclaim) is wrong and your argument is the
+      "right" one.
+
+Last Paragraph Conclusion:
+
+  * Connect your warrant to your evidence (summarize your body paragraphs)
+  * Restate counterclaim
+    - Use different, more basic terms. (Summary of counterclaim paragraph)
+  * Draw conclusion to restate your thesis/claim. (Summarize 1st paragraph)
