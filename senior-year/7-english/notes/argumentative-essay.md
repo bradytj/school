@@ -44,7 +44,7 @@ Thesis: Community service should be required for graduation. Helping communities
     - Explain why that (the counterclaim) is wrong and your argument is the
       "right" one.
 
-Last Paragraph Conclusion:
+Last Paragraph &mdash; Conclusion:
 
   * Connect your warrant to your evidence (summarize your body paragraphs)
   * Restate counterclaim
