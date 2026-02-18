@@ -46,4 +46,4 @@
     - Civil Liberties are laws passed to protect you from the Government
 21. `???`
 22. Explain what is meant by incorporation.
-    - `???`
+    - Merging of Bill of Rights and due process clause of the 14th Amendment
