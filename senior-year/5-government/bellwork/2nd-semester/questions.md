@@ -44,3 +44,6 @@
 20. How do Civil Rights and Civil Liberties differ?
     - Civil Rights are laws passed by the Government to protect you
     - Civil Liberties are laws passed to protect you from the Government
+21. `???`
+22. Explain what is meant by incorporation.
+    - `???`
