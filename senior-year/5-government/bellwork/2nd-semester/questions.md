@@ -45,5 +45,8 @@
     - Civil Rights are laws passed by the Government to protect you
     - Civil Liberties are laws passed to protect you from the Government
 21. `???`
+    - `???`
 22. Explain what is meant by incorporation.
     - Merging of Bill of Rights and due process clause of the 14th Amendment
+23. Laws passed by the government to guarantee equality are \_\_\_\_\_.
+    - Civil Liberties
