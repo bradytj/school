@@ -20,11 +20,17 @@ Instructions:
 
 #### History
 
-> ...
+  - Early research for polyester was headed by Wallace Carothers and was
+    centered on what became Nylon.
+  - Polyester was patented in 1928 by the British General Electric Company.
+  - The polyester project was revived by British scientists Whinfield and
+    Dickson, who patented the basis for polyester and other synthetic fibers.
 
 #### Characteristics
 
-> ...
+  - Polyester is strong and resilient.
+  - Polyester is crease- and wrinkle-resistant.
+  - Polyester dries quickly.
 
 #### Production
 
