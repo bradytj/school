@@ -50,3 +50,5 @@
     - Merging of Bill of Rights and due process clause of the 14th Amendment
 23. Laws passed by the government to guarantee equality are \_\_\_\_\_.
     - Civil Liberties
+24. The \_\_\_\_\_ Clause of the 1st Amendment says the Federal Government cannot spend money in ways that promote a religion.
+    - `???`
