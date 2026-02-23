@@ -52,3 +52,5 @@
     - Civil Liberties
 24. The \_\_\_\_\_ Clause of the 1st Amendment says the Federal Government cannot spend money in ways that promote a religion.
     - `???`
+25. The \_\_\_\_\_ Clause says you have the right to worship, or not to worship, as you choose.
+    - Free Exercise
