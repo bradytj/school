@@ -54,3 +54,7 @@
     - `???`
 25. The \_\_\_\_\_ Clause says you have the right to worship, or not to worship, as you choose.
     - Free Exercise
+26. List the three parts of the Lemon Test.
+    1. A law must have a secular, non-relicious purpose
+    2. It must neigher advance or inhibit religion
+    3. It must not foster an "excessive entanglement" of government and religion.
