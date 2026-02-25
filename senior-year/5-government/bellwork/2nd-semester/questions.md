@@ -57,4 +57,6 @@
 26. List the three parts of the Lemon Test.
     1. A law must have a secular, non-relicious purpose
     2. It must neigher advance or inhibit religion
-    3. It must not foster an "excessive entanglement" of government and religion.
+    3. It must not foster an "excessive entanglement" of government and religion
+27. What is the meaning of the phrase "separation of church and state"?
+    - State may not rely on church and in turn enforce religion or lack thereof
