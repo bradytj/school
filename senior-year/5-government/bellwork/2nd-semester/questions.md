@@ -63,4 +63,4 @@
 28. Explain the "clear and present danger" doctrine.
     - `???`
 29. What is prior restraint?
-    - `???`
+    - Supressing ideas and stories before they go public
