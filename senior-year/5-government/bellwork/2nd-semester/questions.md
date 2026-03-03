@@ -66,3 +66,5 @@
     - Supressing ideas and stories before they go public
 30. What are Shield Laws?
     - `???`
+31. Why is freedon of speech important in a democracy?
+    - `???`
