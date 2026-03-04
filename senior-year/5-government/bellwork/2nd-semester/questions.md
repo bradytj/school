@@ -68,3 +68,6 @@
     - `???`
 31. Why is freedon of speech important in a democracy?
     - `???`
+32. The Constitution protects \_\_\_\_\_% of a person's \_\_\_\_\_.
+    - `???`
+    - `???`
