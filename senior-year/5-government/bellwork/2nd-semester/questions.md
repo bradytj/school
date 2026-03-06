@@ -71,3 +71,5 @@
 32. The Constitution protects \_\_\_\_\_% of a person's \_\_\_\_\_.
     - 100
     - beliefs
+33. Why is the right to assemble peacefully so important to any democratic society?
+    - `???`
