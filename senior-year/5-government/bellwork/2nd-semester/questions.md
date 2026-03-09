@@ -73,3 +73,5 @@
     - beliefs
 33. Why is the right to assemble peacefully so important to any democratic society?
     - `???`
+34. What is the meaning of due process?
+    - The constitutional guarantee that the government will not deprive any person of life, liberty or property without a fair and legal process.
