@@ -75,3 +75,5 @@
     - `???`
 34. What is the meaning of due process?
     - The constitutional guarantee that the government will not deprive any person of life, liberty or property without a fair and legal process.
+35. Explain police power.
+    - The authority of each state to act to protect and promote public health, safety, morals, and general warfare.
