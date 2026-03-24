@@ -79,3 +79,5 @@
     - The authority of each state to act to protect and promote public health, safety, morals, and general warfare.
 36. \_\_\_\_\_ is the power of the government to take private property for public use.
     - `???`
+37. When the police have reasonable suspicion of a crime, it's called \_\_\_\_\_ \_\_\_\_\_
+    - Probable Cause
