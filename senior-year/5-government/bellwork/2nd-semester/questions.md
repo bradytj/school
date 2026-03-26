@@ -81,3 +81,5 @@
     - `???`
 37. When the police have reasonable suspicion of a crime, it's called \_\_\_\_\_ \_\_\_\_\_
     - Probable Cause
+38. Explain the Exclusionary Rule.
+    - `???`
