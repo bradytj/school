@@ -84,4 +84,4 @@
 38. Explain the Exclusionary Rule.
     - `???`
 39. What is Double Jeopardy?
-    - `???`
+    - Being tried for the same crime twice
