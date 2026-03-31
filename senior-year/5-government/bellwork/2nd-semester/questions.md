@@ -85,3 +85,5 @@
     - `???`
 39. What is Double Jeopardy?
     - Being tried for the same crime twice
+40. Why are the rights of the accused protected by the U.S. Constitution?
+    - `???`
