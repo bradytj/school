@@ -89,3 +89,6 @@
     - Innocent until proven guilty
 41. \_\_\_\_\_ is the only crime defined in the Constitution.
     - `???`
+42. List the two types of birthright citizenship.
+    - `???`
+    - `???`
