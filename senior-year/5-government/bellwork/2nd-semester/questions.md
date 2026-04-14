@@ -92,3 +92,9 @@
 42. List the two types of birthright citizenship.
     - `???`
     - `???`
+43. `???`
+44. `???`
+45. A person who flees their home country to escape persecution, war, or disaster is a \_\_\_\_\_.
+    - `???`
+46. What is the most visible form of discrimination against women today?
+    - `???`
