@@ -98,3 +98,5 @@
     - `???`
 46. What is the most visible form of discrimination against women today?
     - `???`
+47. How did the Dred Scott decision effect the nation?
+    - `???`
