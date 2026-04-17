@@ -102,4 +102,4 @@
     - `???`
 48. `???`
 49. Active efforts to improve opportunities for underrepresented groups to achieve diversity or remedy past discrimination is called \_\_\_\_\_.
-    - `???`
+    - Affirmative action
