@@ -100,3 +100,6 @@
     - `???`
 47. How did the Dred Scott decision effect the nation?
     - `???`
+48. `???`
+49. Active efforts to improve opportunities for underrepresented groups to achieve diversity or remedy past discrimination is called \_\_\_\_\_.
+    - `???`
