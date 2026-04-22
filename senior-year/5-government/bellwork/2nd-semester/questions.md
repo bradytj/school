@@ -106,4 +106,4 @@
 50. What happened on April 19th, 1995?
     - `???`
 51. Explain Sufferage!
-    - `???`
+    - The right to vote
