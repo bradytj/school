@@ -107,3 +107,5 @@
     - `???`
 51. Explain Sufferage!
     - The right to vote
+52. Explain Preclearance.
+    - `???`
