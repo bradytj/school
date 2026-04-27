@@ -109,3 +109,9 @@
     - The right to vote
 52. Explain Preclearance.
     - `???`
+53. `???`
+    - `???`
+54. List three amendments to the Constitution that expanded voting rights.
+    - `???`
+    - `???`
+    - `???`
