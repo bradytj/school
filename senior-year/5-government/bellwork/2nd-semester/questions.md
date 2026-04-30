@@ -117,3 +117,7 @@
     - `???`
 55. What is a "non-voting voter?"
     - `???`
+56. List two reasons for actual "non-voters." (Why people don't vote?)
+    - `???`
+57. What happened on this date, April 30th, 1945?
+    - `???`
