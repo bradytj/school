@@ -24,10 +24,11 @@
     - `???`
 11. Who was the President of the United States during the Cuban Missile Crisis?
     - John F. Kennedy
-12. What do you think would have been the best course of action for the U.S. during
-    the Cuban Missile Crisis?
+12. What do you think would have been the best course of action for the U.S.
+    during the Cuban Missile Crisis?
     - `???`
-13. How did the U.S. prove to the world that the Societs had offensives weapons in Cuba?
+13. How did the U.S. prove to the world that the Societs had offensives weapons
+    in Cuba?
     - The U.S. used satellite pictures
 14. What are the two types of jurisdiction that apply to the Supreme Court?
     - Original jurisdiction
@@ -51,9 +52,11 @@
     - Merging of Bill of Rights and due process clause of the 14th Amendment
 23. Laws passed by the government to guarantee equality are \_\_\_\_\_.
     - Civil Liberties
-24. The \_\_\_\_\_ Clause of the 1st Amendment says the Federal Government cannot spend money in ways that promote a religion.
+24. The \_\_\_\_\_ Clause of the 1st Amendment says the Federal Government
+    cannot spend money in ways that promote a religion.
     - `???`
-25. The \_\_\_\_\_ Clause says you have the right to worship, or not to worship, as you choose.
+25. The \_\_\_\_\_ Clause says you have the right to worship, or not to worship,
+    as you choose.
     - Free Exercise
 26. List the three parts of the Lemon Test.
     1. A law must have a secular, non-relicious purpose
@@ -72,15 +75,20 @@
 32. The Constitution protects \_\_\_\_\_% of a person's \_\_\_\_\_.
     - 100
     - beliefs
-33. Why is the right to assemble peacefully so important to any democratic society?
+33. Why is the right to assemble peacefully so important to any democratic
+    society?
     - `???`
 34. What is the meaning of due process?
-    - The constitutional guarantee that the government will not deprive any person of life, liberty or property without a fair and legal process.
+    - The constitutional guarantee that the government will not deprive any
+      person of life, liberty or property without a fair and legal process.
 35. Explain police power.
-    - The authority of each state to act to protect and promote public health, safety, morals, and general warfare.
-36. \_\_\_\_\_ is the power of the government to take private property for public use.
+    - The authority of each state to act to protect and promote public health,
+      safety, morals, and general warfare.
+36. \_\_\_\_\_ is the power of the government to take private property for
+    public use.
     - `???`
-37. When the police have reasonable suspicion of a crime, it's called \_\_\_\_\_ \_\_\_\_\_
+37. When the police have reasonable suspicion of a crime, it's called \_\_\_\_\_
+    \_\_\_\_\_
     - Probable Cause
 38. Explain the Exclusionary Rule.
     - `???`
@@ -97,7 +105,8 @@
     - `???`
 44. `???`
     - `???`
-45. A person who flees their home country to escape persecution, war, or disaster is a \_\_\_\_\_.
+45. A person who flees their home country to escape persecution, war, or
+    disaster is a \_\_\_\_\_.
     - `???`
 46. What is the most visible form of discrimination against women today?
     - `???`
@@ -105,7 +114,8 @@
     - `???`
 48. `???`
     - `???`
-49. Active efforts to improve opportunities for underrepresented groups to achieve diversity or remedy past discrimination is called \_\_\_\_\_.
+49. Active efforts to improve opportunities for underrepresented groups to
+    achieve diversity or remedy past discrimination is called \_\_\_\_\_.
     - Affirmative action
 50. What happened on April 19th, 1995?
     - `???`
