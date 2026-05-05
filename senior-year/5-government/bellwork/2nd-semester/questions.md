@@ -8,6 +8,7 @@
  4. The \_\_\_\_\_ amendment limited the President to two terms.
     - `???`
  5. `???`
+    - `???`
  6. Explain executive priviledge.
     - `???`
  7. What are the four options for the president when a bill reaches his desk?'
@@ -93,7 +94,9 @@
     - `???`
     - `???`
 43. `???`
+    - `???`
 44. `???`
+    - `???`
 45. A person who flees their home country to escape persecution, war, or disaster is a \_\_\_\_\_.
     - `???`
 46. What is the most visible form of discrimination against women today?
@@ -101,6 +104,7 @@
 47. How did the Dred Scott decision effect the nation?
     - `???`
 48. `???`
+    - `???`
 49. Active efforts to improve opportunities for underrepresented groups to achieve diversity or remedy past discrimination is called \_\_\_\_\_.
     - Affirmative action
 50. What happened on April 19th, 1995?
